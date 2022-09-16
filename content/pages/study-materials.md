@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides errata for the books referred in the course and
+  miscellaneous study material related to the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

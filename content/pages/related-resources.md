@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides links for to external web sites on astronomy and
+  astrophysics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

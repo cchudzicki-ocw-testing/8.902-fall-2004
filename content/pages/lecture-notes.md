@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides lecture notes taken in the Fall of 2001 by Jeremy
+  Schnittman, a student in the subject. He used Professor Paul Schechter's handwritten
+  notes in producing them. The figures were produced by Caitlin Millard during June-August
+  2004. Used with permission.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
